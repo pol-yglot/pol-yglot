@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm 유선영</h1>
+<h1 align="left">Hi 👋, There</h1>
+<p>推理に勝ったも負けたも…上も下もねぇよ…真実は…いつも１つしかねーんだからな…</p>
 
 <!-- 프로필 뷰 카운트 -->
 <p align="right">
