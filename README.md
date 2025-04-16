@@ -1,10 +1,6 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">Hi 👋 </h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=pol-yglot&label=Profile%20views&color=0e75b6&style=flat" alt="pol-yglot" /> 
 <p>推理に勝ったも負けたも…上も下もねぇよ…真実は…いつも１つしかねーんだからな…</p>
-
-<!-- 프로필 뷰 카운트 -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pol-yglot&label=Profile%20views&color=0e75b6&style=flat" alt="pol-yglot" />
-</p>
 
 ---
 
@@ -95,7 +91,7 @@
 
 ## 📈 GitHub Stats
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pol-yglot&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
