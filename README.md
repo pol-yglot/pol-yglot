@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm 유선영</h1>
-![conan](https://github.com/user-attachments/assets/61a71541-dad6-4b9b-b649-e0761da3205a)
-
 
 <!-- 프로필 뷰 카운트 -->
 <p align="right">
