@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm 유선영</h1>
-![conan](https://github.com/user-attachments/assets/f9dc0fa6-7836-430e-88ab-0ac1dfb19cce)
-  
+![conan](https://github.com/user-attachments/assets/61a71541-dad6-4b9b-b649-e0761da3205a)
+
+
 <!-- 프로필 뷰 카운트 -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=pol-yglot&label=Profile%20views&color=0e75b6&style=flat" alt="pol-yglot" />
