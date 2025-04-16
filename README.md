@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 </h1>
-<img align="right" src="https://komarev.com/ghpvc/?username=pol-yglot&label=Profile%20views&color=0e75b6&style=flat" alt="pol-yglot" /> 
 <p>推理に勝ったも負けたも…上も下もねぇよ…真実は…いつも１つしかねーんだからな…</p>
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=pol-yglot&label=Profile%20views&color=0e75b6&style=flat" alt="pol-yglot" />  -->
 
 ---
 
