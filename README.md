@@ -90,14 +90,15 @@
 ---
 
 ## 📈 GitHub Stats
-
-<table align="left">
-  <tr>
-    <td align="center">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pol-yglot&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-    </td>
-    <td align="center">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pol-yglot&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pol-yglot&show_icons=true&locale=en&layout=compact&card_width=400" width="400" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pol-yglot&show_icons=true&locale=en&hide_rank=true&card_width=400" width="400" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
